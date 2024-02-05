@@ -1,0 +1,9 @@
+pandas == 1.5.3
+numpy == 1.23.5
+matplotlib.pyplot == 3.6.0
+seaborn == 0.12.2
+statsmodels.formula.api == 0.13.5
+statsmodels.api == 0.13.5
+sklearn.metrics == 1.2.2
+sklearn.tree == 1.2.2
+pickle == 0.7.5
